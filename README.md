@@ -9,18 +9,18 @@ With that, I allow my clients to choose their prices as long as it remains reaso
 NOTE: I WILL NOT TAKE %!
 
 WHAT AM I CAPABLE OF?
--Making combat games (including air combo, downlams and parrying)
--Data storing (Able to use profile service if you need me to!)
--Grip and Carry System
--Intermission Round systems
--Movement systems
--Horror game with pathfinding AI
--Ability to use Knit framework (if you need me to)
--Object Oriented Programming
--CFrame math
+- Making combat games (including air combo, downlams and parrying)
+- Data storing (Able to use profile service if you need me to!)
+- Grip and Carry System
+- Intermission Round systems
+- Movement systems
+- Horror game with pathfinding AI
+- Ability to use Knit framework (if you need me to)
+- Object Oriented Programming
+- CFrame math
 
 WONT DO
--Vehicles
+- Vehicles
 
 NOTES:
 - I WILL NOT MAKE ANIMATIONS,PARTICLES AND SOUND EFFECTS FROM SCRATCH!
