@@ -6,7 +6,9 @@ Hello! Im beebeezee. I am an intermediate roblox scripter, I mainly script comba
 - I prefer to receive my payment per tasks or partial upfront.
 - I can accept Paypal and Robux as payment.
 
-With that, I allow my clients to choose their prices as long as it remains reasonable. Although I have a minimum of 3.5$ / 1000 RBX.
+With that, I allow my clients to choose their prices as long as it remains reasonable. 
+Although I have a minimum of 3.5$ / 1000 RBX.
+
 NOTE: I WILL NOT TAKE %!
 
 WHAT AM I CAPABLE OF?
