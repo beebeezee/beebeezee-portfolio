@@ -2,9 +2,10 @@
 
 Hello! Im beebeezee. I am an intermediate roblox scripter, I mainly script combat games and simulators. But I am not limited to them. I also have previous programming experience in C++,Python, and C.
 
-PAYMENT
-I prefer to receive my payment per tasks or partial upfront.
-I can accept Paypal and Robux as payment.
+# PAYMENT
+- I prefer to receive my payment per tasks or partial upfront.
+- I can accept Paypal and Robux as payment.
+
 With that, I allow my clients to choose their prices as long as it remains reasonable. Although I have a minimum of 3.5$ / 1000 RBX.
 NOTE: I WILL NOT TAKE %!
 
